@@ -1,0 +1,6 @@
+.DS_Store
+*.xccheckout
+*.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/*
